@@ -19,7 +19,7 @@ const router = createBrowserRouter([
     ],
   },
 ],
-{basename: '/SuperMercado'}
+{basename: '/td2'}
 );
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
